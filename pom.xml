@@ -2,8 +2,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>th.co.geniustree</groupId>
-    <artifactId>virgo-spring-jpa-archetype</artifactId>
-    <version>1.0.2</version>
+    <artifactId>virgo-spring-jpa-archetype-template</artifactId>
+    <version>1.0.3.SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>${project.artifactId}</name>
     <properties>
