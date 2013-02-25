@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>th.co.geniustree</groupId>
     <artifactId>virgo-spring-jpa-archetype-template</artifactId>
-    <version>1.0.3.SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>${project.artifactId}</name>
     <properties>
